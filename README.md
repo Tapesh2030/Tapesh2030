@@ -1,7 +1,4 @@
 - Hey, I’m @Tapesh2030
-- I've just started coding
-- I’m interested in web development
-- I’m currently learning html and css
 - How to reach me on discord @tapesh#1877
 
 <!---
